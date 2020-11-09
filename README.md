@@ -2,6 +2,8 @@
 
 see [./src/index.js](./src/index.js) and [./src/reducers/rootReducer.js](./src/reducers/rootReducer.js) for how to set things up.
 
+`yarn add redux@next react-redux@next`
+
 ---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
