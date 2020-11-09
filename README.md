@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+**React Redux using Hooks ( NEW useSelectore & useDispatch ): https://www.youtube.com/watch?v=3zoIigieur0**
+
+see [./src/index.js](./src/index.js) and [./src/reducers/rootReducer.js](./src/reducers/rootReducer.js) for how to set things up.
+
+---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
